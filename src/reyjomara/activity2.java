@@ -1,5 +1,5 @@
 package reyjomara;
-
+import java.util.Scanner;
 public class activity2 {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
